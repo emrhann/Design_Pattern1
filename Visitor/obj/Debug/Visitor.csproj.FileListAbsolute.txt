@@ -1,0 +1,6 @@
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\bin\Debug\Visitor.exe
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\bin\Debug\Visitor.pdb
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\obj\Debug\Visitor.exe
+C:\Users\emir9\documents\visual studio 2015\Projects\Ödev4\Visitor\obj\Debug\Visitor.pdb
